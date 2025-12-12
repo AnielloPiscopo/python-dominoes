@@ -14,3 +14,20 @@ build
 !/Dominoes/task/
 /Dominoes/task/*
 !/Dominoes/task/dominoes
+
+# Hyperskill
+.hyperskill/
+
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+
+# Logs
+*.log
